@@ -1,0 +1,10 @@
+Package: com.minazuki.customnopostlabel
+Name: CustomNoPostLabel
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Change "There is no previous notification".
+Depiction: https://minazukidev.github.io/html/CustomNoPostLabel/index.html
+Maintainer: Minazuki <minazukidev@gmail.com>
+Author: Minazuki <minazukidev@gmail.com>
+Section: Tweaks
